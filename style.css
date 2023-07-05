@@ -8,6 +8,20 @@ header{
     background-image: url("./images/background.png");
     background-size: cover;
 }
+span{
+    color: orangered;
+}
+.p{
+    text-align: center;
+    padding-top: 50px;
+}
+.p a{
+    color: aqua;
+    font-weight: 600;
+    text-decoration: none;
+    
+    padding-top: 50px;
+}
 h1{
     color: #fff;
     text-align: center;
