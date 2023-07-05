@@ -76,3 +76,20 @@ h1{
     margin: 10px 10px 10px;
     box-shadow: 3px 3px 10px;
 }
+footer{
+    height: 200px;
+    background-color: blueviolet;
+}
+.foot-connect{
+    text-align: center;
+    text-decoration: underline;
+    color: #b8b8b8;
+    margin: 10px 10px 10px;
+    padding-top: 20px;
+    font-weight: 800;
+    
+}
+h2 a{
+    text-decoration: none;
+}
+
